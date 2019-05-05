@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/horlah/github-profile/static/css/main.2222d02d.chunk.css",
+    "main.js": "/horlah/github-profile/static/js/main.2653b941.chunk.js",
+    "main.js.map": "/horlah/github-profile/static/js/main.2653b941.chunk.js.map",
+    "runtime~main.js": "/horlah/github-profile/static/js/runtime~main.9bde400f.js",
+    "runtime~main.js.map": "/horlah/github-profile/static/js/runtime~main.9bde400f.js.map",
+    "static/js/2.eea439ea.chunk.js": "/horlah/github-profile/static/js/2.eea439ea.chunk.js",
+    "static/js/2.eea439ea.chunk.js.map": "/horlah/github-profile/static/js/2.eea439ea.chunk.js.map",
+    "index.html": "/horlah/github-profile/index.html",
+    "precache-manifest.e5306fc2bf5ef3407a7b09352e5a3d49.js": "/horlah/github-profile/precache-manifest.e5306fc2bf5ef3407a7b09352e5a3d49.js",
+    "service-worker.js": "/horlah/github-profile/service-worker.js",
+    "static/css/main.2222d02d.chunk.css.map": "/horlah/github-profile/static/css/main.2222d02d.chunk.css.map",
+    "static/media/link.svg": "/horlah/github-profile/static/media/link.d034c92b.svg",
+    "static/media/location.svg": "/horlah/github-profile/static/media/location.c5fbf9df.svg",
+    "static/media/repo-forked.svg": "/horlah/github-profile/static/media/repo-forked.c6aaf6ba.svg",
+    "static/media/repo.svg": "/horlah/github-profile/static/media/repo.88dce2d6.svg",
+    "static/media/star.svg": "/horlah/github-profile/static/media/star.fd15fe26.svg"
+  }
+}
