@@ -1,0 +1,10 @@
+$space: 16px;
+$double-space: 24px;
+$half-space: 8px;
+$link-color: #0366d6;
+
+@mixin desktop {
+    @media (min-width: 800px) {
+        @content;
+    }
+}
